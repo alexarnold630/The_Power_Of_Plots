@@ -44,6 +44,9 @@ In their most recent animal study, 249 mice identified with SCC tumor growth wer
 - Capomulin and Ramicane had the greatest number of timepoints throughout the study, highlighting the sample size of the group and the effectiveness of the treatment over time.
 - There are more male mice per timepoints than female so it's interesting to note whether more females dies during the course of the study.
 
+### Contact:
+Alex Arnold: alexnarnold630@gmail.com <br>
+
 
 
 
